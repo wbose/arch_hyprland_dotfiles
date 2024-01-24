@@ -1,0 +1,41 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+1364x767 screen: Height=702
+1364x767 screen: Width=658
+1364x767 screen: XPosition=14
+1364x767 screen: YPosition=51
+1366x768 screen: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAAAAABaAAACevwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgEAAABDAAACegAAAOQA///+AAACUwAAAnoAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/print/OS.pdf
+File10[$e]=$HOME/.newsboat/README.md
+File2[$e]=$HOME/print/OS MM Notes.pdf
+File3[$e]=$HOME/print/OS Notes 1.pdf
+File4[$e]=$HOME/print/System Calls.pdf
+File5[$e]=$HOME/print/tocc.pdf
+File6[$e]=$HOME/print/TOC Complete Notes.pdf
+File7[$e]=$HOME/print/VD Sir Notes.pdf
+File8[$e]=$HOME/.config/swaylock/INSTALL.md
+File9[$e]=$HOME/documents/.docs/.books/ Joel R. Hass, Christopher Heil, Maurice D.Weir - Thomas’ Calculus_ Early Transcendentals (2017, Pearson) - libgen.li.pdf
+Name1[$e]=OS.pdf
+Name10[$e]=README.md
+Name2[$e]=OS MM Notes.pdf
+Name3[$e]=OS Notes 1.pdf
+Name4[$e]=System Calls.pdf
+Name5[$e]=tocc.pdf
+Name6[$e]=TOC Complete Notes.pdf
+Name7[$e]=VD Sir Notes.pdf
+Name8[$e]=INSTALL.md
+Name9[$e]=\sJoel R. Hass, Christopher Heil, Maurice D.Weir - Thomas’ Calculus_ Early Transcendentals (2017, Pearson) - libgen.li.pdf
+
+[UiSettings]
+ColorScheme=KvAdaptaDark
