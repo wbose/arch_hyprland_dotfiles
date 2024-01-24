@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon></icon>
+	<name>open terminal</name>
+	<submenu>open terminal</submenu>
+	<unique-id>1706090206183325-1</unique-id>
+	<command>popup-kitty</command>
+	<description>open terminal</description>
+	<range>*</range>
+	<patterns>*</patterns>
+</action>
+</actions>
